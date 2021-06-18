@@ -12,3 +12,4 @@ class AmazonreviewItem(scrapy.Item):
      pass
 
 
+   
