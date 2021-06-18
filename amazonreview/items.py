@@ -4,7 +4,7 @@
 # https://docs.scrapy.org/en/latest/topics/items.html
 
 import scrapy
-
+ 
 
 class AmazonreviewItem(scrapy.Item):
     # define the fields for your item here like:
